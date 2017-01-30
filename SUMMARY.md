@@ -8,5 +8,5 @@
 
 ## Part 2
 
-* Test
+* [Test](part-2/test.md)
 
